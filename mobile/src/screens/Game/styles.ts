@@ -34,7 +34,8 @@ export const styles = StyleSheet.create({
   contentList:{
     paddingLeft:32,
     paddingRight:64,
-    alignItems:'flex-start'
+    alignItems:'flex-start',
+    
   },
   emptyListText:{
     color: THEME.COLORS.CAPTION_300,
